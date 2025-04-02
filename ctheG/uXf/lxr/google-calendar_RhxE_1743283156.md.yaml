@@ -25,7 +25,6 @@ jobs:
         repository: thinca/vim-themis
         path: vim-themis
     - name: Setup Vim
-      uses: rhysd/action-setup-vim@v1
       id: vim
       with:
         version: ${{ matrix.vim }}
