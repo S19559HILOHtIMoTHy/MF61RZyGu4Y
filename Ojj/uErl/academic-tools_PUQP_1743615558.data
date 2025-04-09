@@ -24,6 +24,5 @@ Imports:
     rlang,
     robust,
     robustlmm,
-    tibble,
     tidyselect,
     lavaan
